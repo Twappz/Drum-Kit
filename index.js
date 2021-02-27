@@ -8,7 +8,7 @@ for (var i = 0; i < numberOfDrumButtons; i++) {
 
         var buttoninnerHTML = this.innerHTML;
                
-        makeSound(buttoninnerHTM);
+        makeSound(buttoninnerHTML);
         buttonAnimation(buttoninnerHTML);
 
 
